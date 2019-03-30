@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  display: flex;
+  flex: 1 1;
+  flex-direction: row;
 }
 
 .App-logo {
@@ -30,4 +33,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.children{
+  display: flex;
+  flex: 1 1;
+  text-align: left;
+  margin: 2em;
 }

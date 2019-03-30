@@ -1,0 +1,17 @@
+ul{
+    text-decoration: none;
+}
+
+.navBarContainer{
+    max-width: 30%;
+    margin: 2em 0;
+}
+
+.navBarLink{
+    padding: 1em;
+    background: lightgrey;
+}
+
+.isActive{
+    background: red !important;
+}

@@ -1,0 +1,17 @@
+.inputFieldComponent{
+    display: flex;
+    align-content: center;
+}
+
+.inputFieldLabel{
+    display: flex;
+    align-content: center;
+    margin: 0 1em;
+}
+
+
+.inputFieldContainer{
+    display: flex;
+    flex: 1 1;
+    flex-direction: row;
+}
